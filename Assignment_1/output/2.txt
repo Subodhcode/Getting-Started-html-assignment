@@ -1,0 +1,11 @@
+
+In HTML, comments are used to add explanatory notes or remarks within the code that are not displayed in the web browser when the webpage is rendered. They are primarily used for documentation, helping developers and designers understand the structure and purpose of different parts of the HTML document. Comments are ignored by web browsers and are only visible when viewing the page source or inspecting the HTML code.
+
+
+            The purpose of comments in HTML includes:
+
+Documentation: Comments provide information about the code, explaining its purpose, usage, or any other relevant details. This makes it easier for developers to understand and maintain the codebase.
+
+Debugging: Comments can be used to temporarily disable or "comment out" a section of code for debugging purposes without deleting it entirely. This allows you to isolate and test specific parts of your HTML.
+
+Collaboration: When working on a project with multiple developers or designers, comments can serve as a means of communication, allowing team members to provide insights, ask questions, or make suggestions within the code.
